@@ -1,5 +1,3 @@
-// Test check....
-
 package basic;
 
 import org.openqa.selenium.WebDriver;
